@@ -44,7 +44,7 @@ Some example output:
 
 This module uses L<PHP::Serialization> to encode data as PHP serialization
 format, which I frankly wouldn't call as a "pretty" format, but added for
-completeness sake (used by e.g. L<Sub::Spec::HTTP::Server>).
+completeness sake (used by e.g. L<Perinci::Access::HTTP::Server>).
 
 
 =head1 FUNCTIONS
