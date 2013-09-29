@@ -2,7 +2,7 @@
 use strict;
 
 use Data::Format::Pretty::PHPSerialization qw(format_pretty);
-use Test::More;
+use Test::More 0.98;
 
 test_format_pretty(
     name => 'default',
