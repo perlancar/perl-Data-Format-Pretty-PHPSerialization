@@ -1,10 +1,10 @@
 Revision history for Data-Format-Pretty-PHPSerialization
 
-0.02     2012-03-29
+0.02     2012-03-29 (SHARYANTO)
 
-         Add content_type().
+         - Add content_type().
 
 
-0.01     2011-08-11
+0.01     2011-08-11 (SHARYANTO)
 
          - First release.
