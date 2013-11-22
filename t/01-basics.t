@@ -6,9 +6,9 @@ use Test::More 0.98;
 
 test_format_pretty(
     name => 'default',
-    data => {a=>1, b=>2},
+    data => ["a", 2],
     opts => {},
-    output => q[a:2:{s:1:"a";i:1;s:1:"b";i:2;}],
+    output => q[a:2:{i:0;s:1:"a";i:1;i:2;}],
 );
 
 done_testing();
