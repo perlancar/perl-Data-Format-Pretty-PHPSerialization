@@ -1,14 +1,14 @@
-0.03     2013-11-22 (SHARYANTO)
+0.03     2013-11-22  Released-By: SHARYANTO
 
          - No functional changes. Change test that previously involved hash
            randomization [RT#90618].
 
 
-0.02     2012-03-29 (SHARYANTO)
+0.02     2012-03-29  Released-By: SHARYANTO
 
          - Add content_type().
 
 
-0.01     2011-08-11 (SHARYANTO)
+0.01     2011-08-11  Released-By: SHARYANTO
 
          - First release.
